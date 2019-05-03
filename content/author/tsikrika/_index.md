@@ -27,5 +27,3 @@ user_groups = ["Visitors"]
 
 
 +++
-
-bla bla
