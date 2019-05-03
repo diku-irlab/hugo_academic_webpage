@@ -2,7 +2,15 @@ bibtex
 python runBib.py
 
 make public folder
-C:\Users\casper\Dropbox\PHDwork-casper\duty_hours\newweb\My_Website>hugo -s .
+hugo -s .
 
 localhost
 hugo server
+
+
+# how to update website
+# pull diku-irlab/hugo_academic_webpage
+  - make changes
+  - run "hugo -s ." (you need to install hugo first or use the .exe file within the folder)
+  - push
+# push to /public folder to diku-irlab/diku-irlab.github.io
