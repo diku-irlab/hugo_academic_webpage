@@ -13,4 +13,4 @@ hugo server
   - make changes
   - run "hugo -s ." (you need to install hugo first or use the .exe file within the folder)
   - push
-# push to /public folder to diku-irlab/diku-irlab.github.io
+# push the /public folder to diku-irlab/diku-irlab.github.io
